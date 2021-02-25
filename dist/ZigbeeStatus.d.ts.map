@@ -1,0 +1,1 @@
+{"version":3,"file":"ZigbeeStatus.d.ts","sourceRoot":"","sources":["../src/ZigbeeStatus.ts"],"names":[],"mappings":"AAAA,OAAO,UAAU,MAAM,4BAA4B,CAAC;AAEpD;;;;GAIG;AACH,qBAAa,YAAY;IACvB;;OAEG;IACH,QAAQ,CAAC,UAAU,EAAE,MAAM,CAAC;IAE5B;;OAEG;IACH,QAAQ,CAAC,aAAa,EAAE,MAAM,CAAC;gBAEnB,IAAI,EAAE,UAAU;CAI7B"}
